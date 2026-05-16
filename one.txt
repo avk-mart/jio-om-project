@@ -1,2 +1,4 @@
 echo "my name is billa"
 DevOps is easy
+DevOps is so easy
+we need to complete DevOps in 5 Months
